@@ -1,7 +1,7 @@
 package data;
 import java.util.*;
 
-public class optimisedbubbleesort {
+public class optimisedbubblesort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
