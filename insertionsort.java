@@ -17,7 +17,7 @@ public class insertionsort {
 	        } 
 	    } 
 	  
-	    /* A utility function to print array of size n*/
+	   
 	    static void print(int a[]) 
 	    { 
 	        int n = a.length; 
